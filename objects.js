@@ -1,5 +1,5 @@
 var playlist = {
-  key: value
+  Beatles: Paperback writer
 }
 
 function updatePlaylist(playlist, artistName, songTitle) {
