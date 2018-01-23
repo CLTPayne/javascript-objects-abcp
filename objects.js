@@ -9,6 +9,6 @@ function updatePlaylist(playlist, artist, song) {
 }
 
 function removeFromPlaylist(playlist, artist) {
-  delete playlist.Justin Timberlake
+  delete playlist[artist]
   return playlist;
 }
