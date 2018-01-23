@@ -1,6 +1,6 @@
 var playlist = {
-  Beatles: Paperback Writer;
-  Justin Timberlake: Supplies;
+  Beatles: Paperback Writer,
+  Justin Timberlake: Supplies,
 }
 
 function updatePlaylist(playlist, artistName, songTitle) {
