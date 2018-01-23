@@ -8,7 +8,7 @@ function updatePlaylist(playlist, artist, song) {
   return playlist;
 }
 
-function removeFromPlaylist(playlist, artistName) {
-  delete playlist.artistName
+function removeFromPlaylist(playlist, artist) {
+  delete playlist.Justin Timberlake
   return playlist;
 }
