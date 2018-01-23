@@ -3,7 +3,7 @@ var playlist = {
   'Justin Timberlake': 'Supplies',
 }
 
-function updatePlaylist(playlist, artistName, songTitle) {
+function updatePlaylist(playlist, artist, song) {
   playlist[artistName] = songTitle
   
   retun playlist
