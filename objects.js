@@ -5,6 +5,8 @@ var playlist = {
 
 function updatePlaylist(playlist, artistName, songTitle) {
   playlist[artistName] = songTitle
+  
+  retun playlist
 }
 
 function removeFromPlaylist(playlist, artistName) {
