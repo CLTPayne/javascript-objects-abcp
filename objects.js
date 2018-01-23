@@ -4,7 +4,7 @@ var playlist = {
 }
 
 function updatePlaylist(playlist, artist, song) {
-  playlist[artistName] = songTitle
+  playlist[artist] = song
   
   retun playlist
 }
